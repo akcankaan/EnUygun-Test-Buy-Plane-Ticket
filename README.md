@@ -32,4 +32,5 @@ Senaryo : enuygun.com dan Uçak Bileti Seçip Kontrolleri Sağlamak.
 
 Test Status : ✅
 
-![Enuygun Allure Report](https://github.com/akcankaan/EnUygun-Test-Buy-Plane-Ticket/assets/63432799/3ed57809-9308-4d7b-9c73-6d0e9d3d2266)
+![Enuygun Allure Report](https://github.com/akcankaan/EnUygun-Test-Buy-Plane-Ticket/assets/63432799/06a061ba-7bde-4fe9-a15a-04b76ee08541)
+
